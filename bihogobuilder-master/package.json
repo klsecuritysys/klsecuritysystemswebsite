@@ -1,8 +1,8 @@
 {
   "name": "BihogoBuilder",
   "version": "1.0.0",
-  "description": "Mysweet Business Document Builder",
-  "author": "bihogo",
+  "description": "klsecurity systems",
+  "author": "klsecurity systems",
   "private": true,
   "scripts": {
     "dev": "nuxt",
